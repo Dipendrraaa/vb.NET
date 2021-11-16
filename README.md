@@ -36,6 +36,8 @@ For example:
 ms is memory stream where picture box image will be stored on it. @img stores the image value 
 you can find the source code here. 
 https://oxfordcollegeedunp-my.sharepoint.com/:u:/g/personal/itsupport_oxfordcollege_edu_np/EYv2MRcLZxxCpoIlOBLhcrIBoqF38via2fHP4igOYiLsqg?e=1EMrAL
+For Print Demo:
+find the source code here: https://oxfordcollegeedunp-my.sharepoint.com/:u:/g/personal/itsupport_oxfordcollege_edu_np/EUQq_-hyL6xLhfJFKHke1KgBeiDmtQtHCn6UJvAd7kieIA?e=hMSFS3
 
 # To load image  form dataase.
  ````
